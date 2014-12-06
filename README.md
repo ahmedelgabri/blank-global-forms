@@ -1,6 +1,6 @@
-# [blank](https://github.com/ahmedelgabri/blank) froms
+# [blank](https://github.com/ahmedelgabri/blank) forms
 
-Froms styling for [blank](https://github.com/ahmedelgabri/blank)
+Forms styling for [blank](https://github.com/ahmedelgabri/blank)
 
 ## Instalation
 
